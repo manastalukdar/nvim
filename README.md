@@ -7,6 +7,7 @@ For Windows 10, the neovim's init.vim file is located in %userprofile%\AppData\L
 - <https://vonheikemen.github.io/devlog/tools/neovim-plugins-to-get-started/>
 - <https://medium.com/linux-with-michael/lazy-nvim-the-blazingly-fast-neovim-package-manager-19a7a952835c>
 - <https://dev.to/asyncedd/using-lazynvim-in-our-neovim-configuration-glg>
+- <https://www.lazyvim.org/installation>
 
 ---
 
